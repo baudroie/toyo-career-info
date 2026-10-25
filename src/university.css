@@ -1,0 +1,8 @@
+.ribbon-face{fill:#17194c}
+.ribbon-tail{fill:#151644}
+.ribbon-fold{fill:#0e1030}
+.campus-art figcaption{font-family:CampusNote,Yomogi,Noto,sans-serif}
+
+/* Keep tall campus silhouettes below the handwritten caption. */
+.campus-art img{scale:.88;transform-origin:bottom left}
+.campus-art figcaption{top:0}
